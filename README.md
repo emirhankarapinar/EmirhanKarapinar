@@ -12,14 +12,11 @@ Merhaba! Eğitimim ve deneyimlerim, teknik becerilerimi ve analitik düşünme y
 Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ileri taşıdı. Bu süreçte, çeşitli kütüphaneler kullanarak veri hazırlama, görselleştirme, modelleme ve analitik süreç optimizasyonu konularında uygulamalı deneyim kazandım. Ayrıca, iyi tasarlanmış komutlarla iş yükünü azaltan ve etkili sonuçlar üreten yapay zeka tabanlı çözümler geliştirdim. Teknik uzmanlığımın ötesinde, problem çözme, ekip iletişimi ve proje yönetimi konularında deneyimliyim. 
 
 ---
-
+<div>
+<img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3"> 
 <p  style="margin-top: 30px; float: right; margin-left: 20px; overflow: hidden;">
-<img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/d46b80e4041403d315b47e52680fcc0e956ed6d5/working.gif" width="200" height="auto">   
-</p>
-
-<p style="clear: both;">
   
-## 🚀 Teknik Becerilerim
+  ## 🚀 Teknik Becerilerim
 - **Programlama Dilleri:**
   - Python, C#, Java
 - **Web Teknolojileri:**
@@ -30,8 +27,8 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
   - MS SQL, MS SQL
 - **Araçlar ve Platformlar:**
   - Git, Visual Studio, Jupyter Notebook
-
-</p>
+</p>  
+</div> 
 ---
 
 ## 📂 Projelerim
