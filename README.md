@@ -18,9 +18,6 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
   - Python, C#, Java
 - **Web Teknolojileri:**
   - ASP.NET Core MVC, HTML, CSS, SCSS
-<p align="right">
-<img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/d46b80e4041403d315b47e52680fcc0e956ed6d5/working.gif" width="200" height="auto">   
-</p>
 - **Veri Bilimi ve Yapay Zeka:**
   - PowerBI, Scikit-learn, Pandas, Matplotlib
 - **Veritabanı Yönetimi:**
