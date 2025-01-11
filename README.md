@@ -49,15 +49,13 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact&theme=radical" alt="emirhankarapinar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhankarapinar&theme=radical" alt="emirhankarapinar" /></p>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact&theme=radical)
 
 ---
 
 ## 📜 Sertifikalar
-- **Google Coursera Yapay Zeka Sertifikası**
-- **Microsoft Azure Data Scientist Sertifikası**
+- **Yapay Zeka Uzmanı Yetiştirme Programı**
+- **.Net Core İleri Seviye Programlama**
 - [Daha Fazla Sertifikamı Görmek İçin Tıklayın!](https://drive.google.com/drive/folders/1ZgNTk7NZgiTApGZgsJ8VfqEj27FMfcSs?usp=sharing)
 
 ---
