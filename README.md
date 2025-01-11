@@ -54,8 +54,7 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 ## 📊 GitHub İstatistikleri
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhankarapinar&theme=radical" alt="emirhankarapinar" /></a> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact&theme=radical) 
 ![Streak](https://github.com/emirhankarapinar/EmirhanKarapinar/blob/main/GitHub_Profile_Readme.png)
 ---
 
