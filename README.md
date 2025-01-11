@@ -7,5 +7,3 @@
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact)
 
 
-## 🎯 GitHub Katkılarım
-![Metrics](https://metrics.lecoq.io/emirhankarapinar)
