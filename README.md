@@ -3,10 +3,10 @@
 📍 **Lokasyon:** Türkiye
 🎓 **Eğitim:** Bilgisayar Programcılığı, MIS(Yönetim Bilişim Sistemleri)                                                                            
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme               
-
-                                                                                                                          
-
+                                                                                                                      
 ---
+
+                                                                              ![Work](https://github.com/emirhankarapinar/EmirhanKarapinar/blob/main/working.png)
 
 ## 🌟 Hakkımda
 Merhaba! Eğitimim ve deneyimlerim, teknik becerilerimi ve analitik düşünme yeteneklerimi geliştirmemi sağladı. Özellikle, veri odaklı karar verme süreçlerini destekleyen ve iş operasyonlarını iyileştiren çözümler geliştirme konusunda güçlü bir yetenek sergiliyorum.
