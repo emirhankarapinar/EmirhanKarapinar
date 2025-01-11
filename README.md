@@ -13,10 +13,10 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 
 ---
 
-<p align="right" style="margin-top: 30px; display: inline-block;">
+<p align="right" style="margin-top: 30px; float: right; margin-left: 20px; overflow: hidden;">
 <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/d46b80e4041403d315b47e52680fcc0e956ed6d5/working.gif" width="200" height="auto">   
 </p>
-
+<p style="clear: both;">
 ## 🚀 Teknik Becerilerim
 - **Programlama Dilleri:**
   - Python, C#, Java
@@ -28,7 +28,7 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
   - MS SQL, MS SQL
 - **Araçlar ve Platformlar:**
   - Git, Visual Studio, Jupyter Notebook
-
+</p>
 ---
 
 ## 📂 Projelerim
