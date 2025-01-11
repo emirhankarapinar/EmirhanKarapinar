@@ -56,7 +56,9 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact&theme=radical)
 
-<div style="display: flex; align-items: right;>![Streak](https://github.com/emirhankarapinar/EmirhanKarapinar/blob/main/GitHub_Profile_Readme.png)</div>
+<div style="display: flex; align-items: right;>
+![Streak](https://github.com/emirhankarapinar/EmirhanKarapinar/blob/main/GitHub_Profile_Readme.png)
+</div>
 ---
 
 ## 📜 Sertifikalar
