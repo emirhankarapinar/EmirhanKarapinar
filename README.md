@@ -53,7 +53,7 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 ## 📜 Sertifikalar
 - **Google Coursera Yapay Zeka Sertifikası**
 - **Microsoft Azure Data Scientist Sertifikası**
-- [Daha Fazla Sertifikamı Görmek İçin Tıklayın!](https://linkedin.com/in/emirhan-karapinar/)
+- [Daha Fazla Sertifikamı Görmek İçin Tıklayın!](https://drive.google.com/drive/folders/1ZgNTk7NZgiTApGZgsJ8VfqEj27FMfcSs?usp=sharing)
 
 ---
 
