@@ -62,6 +62,3 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 - **LinkedIn:** [Emirhan Karapınar](https://linkedin.com/in/emirhan-karapinar/)
 - **E-posta:** emirhan.krpnrr@gmail.com
 
----
-
-Teşekkürler ve profilime göz attığınız için minnettarım! 😊
