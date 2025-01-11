@@ -13,7 +13,7 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 
 ---
 <div style="display: flex;">
-<img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style="float: right; width: 300;"> 
+<img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style="float: right; width: 10;"> 
 <p  style="margin-top: 30px; float: right; margin-left: 20px; overflow: hidden;">
   
   ## 🚀 Teknik Becerilerim
