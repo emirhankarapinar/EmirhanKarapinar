@@ -4,7 +4,7 @@
 🎓 **Eğitim:** Bilgisayar Programcılığı, MIS(Yönetim Bilişim Sistemleri)                                                                            
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme               
 
-                                                                                                                          (https://github.com/user-attachments/assets/f689989b-2a18-4ee2-b69e-ea49b6d9290d)
+                                                                                                                          
 
 ---
 
