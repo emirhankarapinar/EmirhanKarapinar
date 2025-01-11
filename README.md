@@ -6,7 +6,8 @@
                                                                                                                       
 ---
 
-                                                                              ![Work](https://github.com/emirhankarapinar/EmirhanKarapinar/blob/d46b80e4041403d315b47e52680fcc0e956ed6d5/working.gif)
+                            
+                                                                      ![working](https://github.com/user-attachments/assets/733066ca-60fb-4abc-9100-254fd0f9672f)
 
 ## 🌟 Hakkımda
 Merhaba! Eğitimim ve deneyimlerim, teknik becerilerimi ve analitik düşünme yeteneklerimi geliştirmemi sağladı. Özellikle, veri odaklı karar verme süreçlerini destekleyen ve iş operasyonlarını iyileştiren çözümler geliştirme konusunda güçlü bir yetenek sergiliyorum.
