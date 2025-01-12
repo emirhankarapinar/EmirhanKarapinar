@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Emirhan Karapınar
 
- <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/f9d661e10a91f7384681a978334577a2bb46a959/a.gif" alt="Resim 3" style=" width: 1000px; height: 300px;">
+ <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/f9d661e10a91f7384681a978334577a2bb46a959/a.gif" alt="Resim 3" style=" width: 1000px; height: 380px;">
  
                                                                                                              
 ## 🌟 Hakkımda
