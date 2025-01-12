@@ -3,10 +3,7 @@
  <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 300px;">
  
 
-
-
   <br/>
-
 
                                                                                                                 
 ## 🌟 Hakkımda
@@ -14,8 +11,8 @@ Merhaba! Eğitimim ve deneyimlerim, teknik becerilerimi ve analitik düşünme y
 
 Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ileri taşıdı. Bu süreçte, çeşitli kütüphaneler kullanarak veri hazırlama, görselleştirme, modelleme ve analitik süreç optimizasyonu konularında uygulamalı deneyim kazandım. Ayrıca, iyi tasarlanmış komutlarla iş yükünü azaltan ve etkili sonuçlar üreten yapay zeka tabanlı çözümler geliştirdim. Teknik uzmanlığımın ötesinde, problem çözme, ekip iletişimi ve proje yönetimi konularında deneyimliyim. 
   <br/>
-📍 **Lokasyon:** Türkiye
-🎓 **Eğitim:** Bilgisayar Programcılığı, MIS(Yönetim Bilişim Sistemleri)                                                                            
+📍 **Lokasyon:** Türkiye   <br/>
+🎓 **Eğitim:** Bilgisayar Programcılığı, MIS(Yönetim Bilişim Sistemleri)   <br/>                                                                           
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme 
 
   <br/>
