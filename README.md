@@ -16,7 +16,6 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme 
 
   <br/>
-
   
   ## 🚀 Teknik Becerilerim
 - **Programlama Dilleri:**
