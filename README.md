@@ -1,3 +1,5 @@
+ <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 250px;">
+ 
 # 👋 Merhaba, Ben Emirhan Karapınar
 
 📍 **Lokasyon:** Türkiye
@@ -5,9 +7,8 @@
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme 
   <br/>
 
- <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 250px;">
-                                                                                                                 
-  
+
+                                                                                                                
 ## 🌟 Hakkımda
 Merhaba! Eğitimim ve deneyimlerim, teknik becerilerimi ve analitik düşünme yeteneklerimi geliştirmemi sağladı. Özellikle, veri odaklı karar verme süreçlerini destekleyen ve iş operasyonlarını iyileştiren çözümler geliştirme konusunda güçlü bir yetenek sergiliyorum.
 
