@@ -5,7 +5,7 @@
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme 
   <br/>
 
- <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 400px;">
+ <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 300px;">
                                                                                                                  
   
 ## 🌟 Hakkımda
