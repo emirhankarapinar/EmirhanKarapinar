@@ -1,4 +1,4 @@
- <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 250px;">
+ <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/4d7ea16b9cc3b793e1407b406cddc4056d3a728a/working.gif" alt="Resim 3" style=" width: 1000px; height: 3000px;">
  
 # 👋 Merhaba, Ben Emirhan Karapınar
 
