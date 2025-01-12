@@ -25,6 +25,7 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
 - **Araçlar ve Platformlar:**
   - Git, Visual Studio, Jupyter Notebook
 
+ <br/>
 
 ## 📂 Projelerim
 ### 1. **Veri Analizi ve Tahminleme Projesi**
@@ -41,6 +42,7 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
   - Responsive tasarım
   - Veri tabanı optimizasyonu
 
+ <br/>
 
 ## 📊 GitHub İstatistikleri
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhankarapinar&theme=radical" alt="emirhankarapinar" /></a> </p>
@@ -49,14 +51,15 @@ Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ile
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhankarapinar&layout=compact&theme=radical" alt="Resim 1">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/emirhankarapinar/EmirhanKarapinar/blob/main/GitHub_Profile_Readme.png" alt="Resim 2">
 </div>
----
+
+ <br/>
 
 ## 📜 Sertifikalar
 - **Yapay Zeka Uzmanı Yetiştirme Programı**
 - **.Net Core İleri Seviye Programlama**
 - [Daha Fazla Sertifikamı Görmek İçin Tıklayın!](https://drive.google.com/drive/folders/1ZgNTk7NZgiTApGZgsJ8VfqEj27FMfcSs?usp=sharing)
 
----
+ <br/>
 
 ## 📫 İletişim
 - **GitHub:** [Emirhan Karapınar](https://github.com/emirhankarapinar)
