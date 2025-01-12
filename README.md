@@ -12,7 +12,7 @@ Merhaba! Eğitimim ve deneyimlerim, teknik becerilerimi ve analitik düşünme y
 Katıldığım yapay zeka kursu, veri analizi becerilerimi önemli ölçüde ileri taşıdı. Bu süreçte, çeşitli kütüphaneler kullanarak veri hazırlama, görselleştirme, modelleme ve analitik süreç optimizasyonu konularında uygulamalı deneyim kazandım. Ayrıca, iyi tasarlanmış komutlarla iş yükünü azaltan ve etkili sonuçlar üreten yapay zeka tabanlı çözümler geliştirdim. Teknik uzmanlığımın ötesinde, problem çözme, ekip iletişimi ve proje yönetimi konularında deneyimliyim. 
   <br/>
 📍 **Lokasyon:** Türkiye   <br/>
-🎓 **Eğitim:** Bilgisayar Programcılığı, MIS(Yönetim Bilişim Sistemleri)   <br/>                                                                           
+🎓 **Eğitim:** Bilgisayar Programcılığı, MIS(Yönetim Bilişim Sistemleri)                                                                          
 💼 **İlgi Alanları:** Yapay Zeka, Veri Bilimi, Web Geliştirme 
 
   <br/>
